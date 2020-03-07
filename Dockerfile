@@ -13,5 +13,5 @@ RUN pip3 --no-cache-dir install -r requirements.txt
 
 EXPOSE 8000
 
-ENTRYPOINT ["python3"]
-CMD ["./happyhourmenu/manage.py runserver 0.0.0.0:8000"]
+# ENTRYPOINT ["python3"]
+# CMD ["./happyhourmenu/manage.py runserver 0.0.0.0:8000"]
