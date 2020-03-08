@@ -14,7 +14,7 @@ Python Djangon framework used for Backend
 Install Python3, Pip3 and NPM
 
 ### Installing
-For this project, the following framework are needed 
+For this project, the following frameworks are needed 
 * django
 * djangorestframework
 * django-rest-knox
