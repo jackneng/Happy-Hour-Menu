@@ -18,6 +18,7 @@ For this project, the following frameworks are needed
 * django
 * djangorestframework
 * django-rest-knox
+
 Install them by running
 ```
 pip3 install -r requirements.txt
