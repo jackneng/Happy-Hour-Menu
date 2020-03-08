@@ -13,11 +13,13 @@ Python Djangon framework used for Backend
 ### Prerequisites
 
 ## Demo
-Show All Restaurant Menus
+### Show All Restaurant Menus
 <img src="img/Menus.png">
 
-Register a Restaurant Account
+
+### Register a Restaurant Account
 <img src="img/Register.png">
 
-Login to the Account and add Dishes
+
+### Login to the Account and add Dishes
 <img src="img/Dashboard.png">
