@@ -15,10 +15,12 @@ Install Python3, Pip3 and NPM
 
 ### Installing
 For this project, the following framework are needed 
+* django
+* djangorestframework
+* django-rest-knox
+Install them by running
 ```
-django
-djangorestframework
-django-rest-knox
+pip3 install -r requirements.txt
 ```
 
 ### Running the Menu Host Service
