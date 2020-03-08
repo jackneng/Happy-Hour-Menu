@@ -11,6 +11,22 @@ Python Djangon framework used for Backend
 ## Getting Started
 
 ### Prerequisites
+Install Python3, Pip3 and NPM
+
+### Installing
+For this project, the following framework are needed 
+```
+django
+djangorestframework
+django-rest-knox
+```
+
+### Running the Menu Host Service
+After cloning the repo and installing the required framework, the web app can now be run by
+```
+python3 ./happyhourmenu/manage.py runserver 
+```
+
 
 ## Demo
 ### Show All Restaurant Menus
