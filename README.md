@@ -32,7 +32,7 @@ python3 ./happyhourmenu/manage.py runserver
 
 
 ## Demo
-Have a try on this link: http://18.220.149.130/
+Have a try on this link: http://jackwneng.pythonanywhere.com/
 Followings are some picture of the project
 
 ### Show All Restaurant Menus
